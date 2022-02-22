@@ -11,13 +11,13 @@ easy multi-accounting on a device
 
 #### official axie infinity apk run on android emulator
 
-![](https://raw.githubusercontent.com/encoderlee/cracked_axie_infinity/main/demo3.png)
+![](https://raw.githubusercontent.com/encoderlee/cracked_axie_infinity/main/img/demo3.png)
 
 #### cracked axie infinity apk run on android emulator
 
-![](https://raw.githubusercontent.com/encoderlee/cracked_axie_infinity/main/demo1.png)
+![](https://raw.githubusercontent.com/encoderlee/cracked_axie_infinity/main/img/demo1.png)
 
-![](https://raw.githubusercontent.com/encoderlee/cracked_axie_infinity/main/demo2.png)
+![](https://raw.githubusercontent.com/encoderlee/cracked_axie_infinity/main/img/demo2.png)
 
 recommended android emulator:
 
